@@ -23,10 +23,13 @@ It is made using <a href="https://www.java.com/en/" target="_blank">Java</a>, <a
  
  * Andriod 8.0+
  
- Can Install using two methods.
+ Can Install using APK
  
- 1. Downloaded an APK file
- *
+ 1. Download an APK file
+ 
+ * [apk](ComSci-Books/releases/app-debug.apk)
+
+
  
 
 
