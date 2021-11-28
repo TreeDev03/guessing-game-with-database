@@ -32,7 +32,7 @@ while [ -h "$PRG" ] ; do
     if expr "$link" : '/.*' > /dev/null; then
         PRG="$link"
     else
-        PRG=`dirname "$PRG"`"/$link
+        PRG=`dirname "$PRG"`"/$link"
     fi
 done
 SAVED="`pwd`"
