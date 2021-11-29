@@ -27,8 +27,10 @@ It is made using <a href="https://www.java.com/en/" target="_blank">Java</a>, <a
  
  1. Download an APK file
  
- * <a href=" https://github.com/TreeDev03/Guessing-Game-With-Database/blob/Main/releases/app-debug.apk">APK</a> 
+ * [APK](https://github.com/TreeDev03/Guessing-Game-With-Database/blob/Main/releases/app-debug.apk)
 
+ 
+ 
  Learn how to store data <a href="https://www.geeksforgeeks.org/how-to-create-and-add-data-to-sqlite-database-in-android/">here</a>
  
 
